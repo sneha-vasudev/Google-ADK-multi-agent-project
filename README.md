@@ -84,3 +84,6 @@ When you're done, you can deactivate the virtual environment:
 ```bash
 deactivate
 ```
+
+Output : 
+<img width="1838" height="961" alt="image" src="https://github.com/user-attachments/assets/9ea93a52-2548-4d39-9e22-8b4710445be8" />
